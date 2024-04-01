@@ -15,7 +15,7 @@ const AboutSection = () => {
                     I am a full stack web developer with a passion for creating interactive and responsive web Application
                     I have experience working with HTML,CSS,Tailwind css,Javascript,Reactjs,Redux,Node.js, Express,Next.js,SQL and Git. I am a quick lerner and i am always 
                     looking to expand my knowledge and skill set . I am a team player and I am excited to work with others to create amazing
-                    Application. 
+                    Application!! 
                 </p>
             <div className="grid grid-cols-5 gap-4 py-12 justify-between">
                 <div className="text-white font-bold text-4xl col-span-5 mb-4">Skills</div>

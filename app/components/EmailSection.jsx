@@ -12,8 +12,8 @@ const EmailSection = () => {
       <div className='z-10'>
         <h5 className='text-xl font-bold text-white my-2'>Let's Connect</h5>
         <p className='text-[#ADB7BE] mb-4 max-w-md'>
-            {" "}
-            I'm Currently looking for new opportunities, my inbox is always open.
+            
+            I am Currently looking for new opportunities, my inbox is always open.
             weather you have have a question or just want to say Hi, i will try my best 
             to get back to you....!!
         </p>
