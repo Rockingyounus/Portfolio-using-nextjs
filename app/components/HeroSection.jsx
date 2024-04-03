@@ -27,7 +27,7 @@ const HeroSection = () => {
                 />
               </h1>
               <p className='text-[#ADB7BE] text-lg mb-6 sm:text-lg lg:text-xl'>
-              Hi I am Younus Full Stack web developer.i have relavent experience in web-developer,
+              Hi I am Younus Full Stack web developer.i have relavent experience in web-developer
                And i passionate about to learning new skills...!!
               </p>
               <div>
